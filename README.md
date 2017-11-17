@@ -6,6 +6,6 @@ Portfolio amélioré (js) (en construction)
 Here my web site for learn more about me.
 Please give me yours opinions back.
 
-|| Enjoy your visit !
+> Enjoy your visit !
 
 Leila
